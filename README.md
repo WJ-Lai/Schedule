@@ -2,4 +2,4 @@
 
 
 <div align=center><img src="pic/Bruce-Lee.jpg"></div>
-<html><body><p align="center" style="color:red;font-size:25px">color="#BEBEBE">Actually, Lee quoted Goethe</p></body></html>
+<html><body><p align="center"><font color="yellow" size="5">Actually, Lee quoted Goethe</font></p></body></html>
