@@ -1,5 +1,6 @@
 ### Schedule 
 
-![Act](https://github.com/WJ-Lai/Schedule/tree/master/pic/Bruce-Lee.jpg)
+
+<div align=center><img src="pic/Bruce-Lee.jpg"></div>
 
 Actually, Lee quoted Goethe
